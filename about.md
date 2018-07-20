@@ -23,7 +23,7 @@ menu: true
 order: 4
 ---
 
-> "Best Jekyll Theme by a Mile"
+> "Sigo haciendo pruebas"
 {:.lead}
 
 ![Screenshot](/assets/img/hydejack-8.jpg){:.lead}

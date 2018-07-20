@@ -1,18 +1,8 @@
-# Hydejack Starter Kit
+# HydejackUnderground
+Implementation of [Hydejack](https://github.com/qwtel/hydejack-starter-kit) for Underground
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
-
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. `bundle install` [^1]
-4. `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
-
-### GitHub Pages
-1. Fork this repository.
-2. Go to **Settings**, rename repository to `<your github username>.github.io` (without the `<` `>`)
+## Quick Start: GitHub Pages
+2. Go to **Settings**, rename repository to `DGIIMUnderground.github.io` (without the `<` `>`)
 3. Edit `_config.yml` (you can do this directly on GitHub)
     1. Change `url` to `https://<your github username>.github.io` (without the `<` `>`)
     2. Change `baseurl` to `''` (empty string)
@@ -23,8 +13,5 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 ## What's next?
 * Open files and read the comments
 * Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
 
-[download]: https://github.com/qwtel/hydejack-starter-kit/archive/master.zip

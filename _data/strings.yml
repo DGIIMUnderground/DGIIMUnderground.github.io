@@ -10,48 +10,48 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
-social:                Social
-links:                 Links
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-back:                  Back
-templates:             Templates (for web app)
+home:                  Inicio
+pages:                 Páginas
+posts:                 Entradas
+about:                 Acerca de
+related_posts:         Entradas Relacionadas
+other_projects:        Otros Proyectos
+comments:              Comentarios
+jump_to:               Saltar a
+navigation:            Navegación
+social:                Redes Sociales
+links:                 Enlaces
+pagination:            Paginación
+newer:                 Más Nuevo
+older:                 Más Antiguo
+back:                  Volver
+templates:             Plantillas (para aplicación web)
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Cargando…
+redirecting:           Redireccionando…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continuar leyendo <!--post_title-->
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: Página no encontrada'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    Lo sentimos, hemos extraviado esa URL o está apuntando a algo que no existe.
+    <!--home_link--> para intentarlo de nuevo.
+  home_link:           Volver a inicio
 
 error:
   title:               Error
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Lo sentimos, ocurrió un error cargando <!--link-->.
 
 # Separators
 # ---------------------------------------------------------------------------------------
 colon:                 ':'
 separator:             '|'
-category_start:        'in '
+category_start:        'en '
 category_spearator:    ' / '
-tag_start:             'on '
+tag_start:             'a fecha de '
 tag_separator:         ', '
 
 # Date formats
@@ -74,9 +74,9 @@ tinyletter:
   title:               Newsletter
   label:               Email
   placeholder:         mail@example.com
-  button:              Subscribe
+  button:              Suscribirse
   message:             |
-    Subscribe to my newsletter.
+    Suscríbete a mi Newsletter.
     0
     <!--form-->
 
@@ -84,40 +84,40 @@ tinyletter:
     {:.faded}
 
 welcome:
-  selected_projects:   Selected Projects
-  selected_posts:      Selected Posts
-  recent_projects:     Recent Projects
-  recent_posts:        Recent Posts
-  more_projects:       See <!--projects_title--> for more
-  more_posts:          See <!--posts_title--> for more
+  selected_projects:   Proyectos Seleccionados
+  selected_posts:      Entradas Seleccionadas
+  recent_projects:     Proyectos Recientes
+  recent_posts:        Entradas Recientes
+  more_projects:       Ver <!--projects_title--> para más
+  more_posts:          Ver <!--posts_title--> para más
 
 resume:
-  location:            Location
+  location:            Ubicación
   location_separator:  ', '
   from_to_separator:   '–'
-  present:             present
+  present:             actual
   email:               Email
-  phone:               Phone
-  website:             Website
-  work:                Experience
-  work_title:          <!--position--> at <!--company-->
-  highlights:          Highlights
-  volunteer:           Volunteer
-  volunteer_title:     <!--position--> at <!--organization-->
-  education:           Education
-  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
-  courses:             Courses
-  awards:              Awards
-  awards_title:        <!--title--> from <!--awarder-->
-  publications:        Publications
-  publications_title:  <!--name--> by <!--publisher-->
-  references:          References
-  languages:           Languages
-  fluency:             Fluency
-  skills:              Skills
-  level:               Level
-  interests:           Interests
-  keywords:            Keywords
+  phone:               Teléfono
+  website:             Sitio web
+  work:                Experiencia de trabajo
+  work_title:          <!--position--> en <!--company-->
+  highlights:          Destacado
+  volunteer:           Voluntario
+  volunteer_title:     <!--position--> en <!--organization-->
+  education:           Educación
+  education_title:     <!--study_type--> en <!--area--> de <!--institution--> con un GPA de <!--gpa-->
+  courses:             Cursos
+  awards:              Premios
+  awards_title:        <!--title--> de <!--awarder-->
+  publications:        Publicaciones
+  publications_title:  <!--name--> por <!--publisher-->
+  references:          Referencias
+  languages:           Idiomas
+  fluency:             Fluidez
+  skills:              Capacidades
+  level:               Nivel
+  interests:           Intereses
+  keywords:            Palabras clave
   icons:
     location:          icon-location
     email:             icon-envelop

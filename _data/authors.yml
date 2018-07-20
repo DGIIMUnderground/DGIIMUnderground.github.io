@@ -85,3 +85,23 @@ author2:
   accent_image:
     background:      '#202020'
     overlay:         false
+
+
+# Another author
+mianfg:
+  name:              Miguel Ángel Fernández Gutiérrez
+  email:             <mianfg@bloomgogo.com>
+  about:             |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  picture:           https://avatars0.githubusercontent.com/u/30473173?s=460&v=4
+  github:            mianfg
+  instagram:         mianfg
+
+  # Every author can have his/her own accent color and image.
+  # This will change the appearance of all pages of this author.
+  accent_color:      '#ff5a00'
+  accent_image:
+    background:      '#202020'
+    overlay:         false

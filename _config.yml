@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack Starter Kit
+title:                 DGIIM Underground repository
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -60,7 +60,7 @@ copyright:             >
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /:categories/:day-:month-:year-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5

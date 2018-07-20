@@ -92,9 +92,9 @@ mianfg:
   name:              Miguel Ángel Fernández Gutiérrez
   email:             <mianfg@bloomgogo.com>
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Hola, soy **Miguel Ángel**, y como realmente no sé que decir de mí, prefiero dejarte mi web por si quieres saber qué hago o contactar conmigo ;)
+    
+    [mianfg.bloomgogo.com](http://mianfg.bloomgogo.com)
   picture:           https://avatars0.githubusercontent.com/u/30473173?s=460&v=4
   github:            mianfg
   instagram:         mianfg
@@ -104,4 +104,4 @@ mianfg:
   accent_color:      '#ff5a00'
   accent_image:
     background:      '#202020'
-    overlay:         false
+    overlay:         true

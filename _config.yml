@@ -16,7 +16,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  es
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 DGIIM Underground repository
@@ -36,7 +36,7 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/logo/Underground.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: mianfg
 title: Estamos construyendo esto...
 description: >
   Actualmente, esta página web se encuentra en proceso de creación

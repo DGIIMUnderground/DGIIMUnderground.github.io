@@ -36,3 +36,11 @@ Pretendemos mantener nuestro repositorio lo más ordenado posible. Por eso, podr
 ## Repositorio de DGIIMUnderground
 
 A continuación, los enlaces:
+
+### Organización en GitHub
+
+* [DGIIMUnderground](https://github.com/DGIIMUnderground): página principal de nuestra organización.
+
+### Apuntes y ejercicios por cursos
+
+* [DGIIM1](https://github.com/DGIIMUnderground/DGIIM1): apuntes y ejercicios del primer curso.

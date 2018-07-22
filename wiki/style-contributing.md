@@ -10,7 +10,7 @@ permalink: /wiki/style/contributing
 Wiki ➞ Guías de estilo ➞ **Contribuir en DGIIMUnderground**
 {:.faded}
 
-⇦ [Volver al inicio de la Wiki](/wiki/)
+⇦ [Volver al inicio de la Wiki](/wiki)
 
 # Contribuir en DGIIMUnderground
 

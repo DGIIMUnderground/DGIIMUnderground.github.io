@@ -9,8 +9,7 @@ title: Sobre nosotros
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  ¿Nunca te has preguntado por qué lo de Underground? ¿Y el naufragio? ¡Aquí lo podrás saber!
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -22,6 +21,8 @@ image: /assets/img/hydejack-8.jpg
 menu: true
 order: 1
 ---
+
+Bienvenido a la página web de **DGIIMUnderground**, el sitio donde encontrarás recursos colaborativos sobre Ingeniería Informática y Matemáticas. Como hemos dicho, somos un grupo de estudiantes de la titulación del Doble Grado en Ingeniería Informática y Matemáticas, de la Universidad de Granada.
 
 > "Sigo haciendo pruebas"
 {:.lead}

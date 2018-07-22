@@ -8,9 +8,7 @@ permalink: /wiki/style/contributing
 
 # Contribuir en DGIIMUnderground
 
-⇦ [Volver al inicio de la Wiki](/wiki/)
-
-\
+⇦ [Volver al inicio de la Wiki](/wiki/)\
 
 ¿Está cansado de la soledad estudiantil frente a los problemas?
 ¿Quiere usted optimizar su tiempo como estudiante del DGIIM?

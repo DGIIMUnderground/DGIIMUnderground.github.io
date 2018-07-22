@@ -39,7 +39,7 @@ keywords:              []
 logo:                  /assets/logo/Underground.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
-underground:
+author:
   # Replace <...> with your own (remove the < >)
   name:              DGIIMUnderground
 

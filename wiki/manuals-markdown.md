@@ -10,7 +10,7 @@ permalink: /wiki/manuals/markdown
 Wiki ➞ Manuales ➞ **Manual básico de Markdown**
 {:.faded}
 
-⇦ [Volver al inicio de la Wiki](/wiki/)
+⇦ [Volver al inicio de la Wiki](/wiki)
 
 # Manual básico de Markdown
 

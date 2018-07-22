@@ -19,7 +19,7 @@ image: /assets/img/hydejack-8.jpg
 
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
-order: 4
+order: 2
 ---
 
 **NOTA**: Estamos construyendo esta página. Por tanto, el contenido puede sufrir modificaciones.
@@ -31,11 +31,11 @@ De este modo, tanto estudiantes como el público puede acceder a contenido de ca
 
 ## Organización del repositorio
 
-Pretendemos mantener nuestro repositorio lo más ordenado posible. Por eso, podrás acceder a los distinto contenidos que te ofrecemos directamente desde GitHub, haciendo uso de los `README.md` que hemos diseñado para ayudarte a llegar donde quieras.
+Pretendemos mantener nuestro repositorio lo más ordenado posible. Por eso, podrás acceder a los distintos contenidos que te ofrecemos directamente desde GitHub, haciendo uso de los `README.md` que hemos diseñado para ayudarte a llegar donde quieras.
 
 ## Repositorios de DGIIMUnderground
 
-A continuación, los enlaces a nuestros repositorios. Recuerda que también puedes econtrarlos desde la [página de nuestra organización](https://github.com/DGIIMUnderground) en GitHub.
+A continuación, los enlaces a nuestros repositorios. Recuerda que también puedes encontrarlos desde la [página de nuestra organización](https://github.com/DGIIMUnderground) en GitHub.
 
 También tenemos contenido en otras plataformas aparte de GitHub. Como hemos dicho anteriormente, hemos intentado organizar nuestros recursos de la forma más práctica posible. Por tanto, en los `README.md` encontrarás todos los enlaces que te permitirán acceder a contenido que no se encuentre en GitHub.
 

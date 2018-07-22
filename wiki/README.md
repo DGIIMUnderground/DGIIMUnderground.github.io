@@ -12,7 +12,7 @@ permalink: /wiki/
 En esta wiki, encontrarás contenido principalmente orientado para contribuir en DGIIMUnderground. Por tanto, si estás aquí para acceder a los contenidos, quizás este no sea tu sitio :( *o quizás sí, por qué no ;)*.
 
 ## Guías de estilo
-* [Contribuir en el Underground](/styleguides/contributing) --- Guía para contribuir en los repositorios de DGIIMUnderground.
+* [Contribuir en el Underground](/wiki/style/contributing) --- Guía para contribuir en los repositorios de DGIIMUnderground.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}

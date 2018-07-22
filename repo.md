@@ -22,7 +22,7 @@ menu: true
 order: 4
 ---
 
-**NOTE**: You can add a message box.
+**NOTA**: Estamos construyendo esta página. Por tanto, el contenido puede sufrir modificaciones.
 {:.message}
 
 En **DGIIMUnderground**, tenemos una clara filosofía: ***compartir es esencial***. Por eso, publicamos nuestros apuntes, ejercicios, etc. de forma colaborativa, en GitHub.
@@ -33,14 +33,16 @@ De este modo, tanto estudiantes como el público puede acceder a contenido de ca
 
 Pretendemos mantener nuestro repositorio lo más ordenado posible. Por eso, podrás acceder a los distinto contenidos que te ofrecemos directamente desde GitHub, haciendo uso de los `README.md` que hemos diseñado para ayudarte a llegar donde quieras.
 
-## Repositorio de DGIIMUnderground
+## Repositorios de DGIIMUnderground
 
-A continuación, los enlaces:
+A continuación, los enlaces a nuestros repositorios. Recuerda que también puedes econtrarlos desde la [página de nuestra organización](https://github.com/DGIIMUnderground) en GitHub.
 
-### Organización en GitHub
-
-* [DGIIMUnderground](https://github.com/DGIIMUnderground): página principal de nuestra organización.
+También tenemos contenido en otras plataformas aparte de GitHub. Como hemos dicho anteriormente, hemos intentado organizar nuestros recursos de la forma más práctica posible. Por tanto, en los `README.md` encontrarás todos los enlaces que te permitirán acceder a contenido que no se encuentre en GitHub.
 
 ### Apuntes y ejercicios por cursos
 
 * [DGIIM1](https://github.com/DGIIMUnderground/DGIIM1): apuntes y ejercicios del primer curso.
+
+### Otros repositorios
+
+* [DGIIMUnderground.github.io](https://github.com/DGIIMUnderground/DGIIMUnderground.github.io): archivos que construyen esta web.

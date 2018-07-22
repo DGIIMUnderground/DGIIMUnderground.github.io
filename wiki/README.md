@@ -18,8 +18,8 @@ Should you discover a mistake in the docs (or a bug in general) feel free to [op
 Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
 or [upgrades for pro buyers](upgrade.md#pro-version).
 
-## Getting started
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+## Guías de estilo
+* [Contribuir en el Underground](/styleguides/contributing) --- Guía para contribuir en los repositorios de DGIIMUnderground.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}

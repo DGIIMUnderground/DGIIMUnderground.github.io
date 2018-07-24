@@ -100,3 +100,18 @@ mianfg:
   accent_image:
     background:      '#202020'
     overlay:         true
+
+#Another author 
+Asmilex:
+  name:              Andrés Millán
+  email:             andresmm@outlook.com
+  about:             |
+    ¿Es esta una de esas descripciones ingeniosas que la gente se inventa? Tiene pinta. Pero no soy bueno en eso. Por lo menos, pongo memes por otras redes sociales
+  picture:            https://avatars0.githubusercontent.com/u/32983998?s=460&v=4
+  
+  accent_color:      '#57A0D3'
+
+  #Redes sociales
+  github:            Asmilex
+  twitter:           Asmilex
+
